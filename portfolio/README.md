@@ -1,5 +1,5 @@
-# Pedro Bento / Thoffy
-###  apprentice / Script Kiddie
+Thoffy
+###  Aprendiz / Script Kiddie
 
 
 
