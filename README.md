@@ -8,6 +8,8 @@ Thoffy
 ⚐ Based in Minas Gerais, Brazil
 
 ϟ Non-professional worker
+ϟ CTF player
+ϟ Pentester
 
 
  ## Skills
