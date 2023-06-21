@@ -7,7 +7,7 @@ Thoffy
 
 ⚐ Based in Minas Gerais, Brazil
 
-ϟ Non-professional worker
+ϟ Non-professional worker <br>
 https://tryhackme.com/p/Gl1tchzzz
 
  ## Skills
