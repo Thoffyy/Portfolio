@@ -1,5 +1,5 @@
 Thoffy
-###  Aprendiz / Script Kiddie
+###  Aprendiz | Script Kiddie
 
 
 
