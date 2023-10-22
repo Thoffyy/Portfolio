@@ -5,9 +5,8 @@ Thoffy
 
  
 
-⚐ Based in Minas Gerais, Brazil
+⚐ Based in Minas Gerais, Brazil <br>
 
-ϟ Non-professional worker <br>
 
 <b>https://tryhackme.com/p/Gl1tchzzz<b>
 
